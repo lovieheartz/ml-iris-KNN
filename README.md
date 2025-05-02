@@ -27,7 +27,7 @@ The dataset (`Iris.csv`) includes:
 - `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
 ## 📊 Results
-Achieved **100% accuracy** on test data with K=3. Cross-validation confirms model generalizes well on unseen data.
+Achieved **90%+ accuracy** on test data with K=3. Cross-validation confirms model generalizes well on unseen data.
 
 ---
 
